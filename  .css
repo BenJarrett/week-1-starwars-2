@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(255, 234, 207)
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 112, 112);
+}
+
+ li {
+  float: :left
+}
